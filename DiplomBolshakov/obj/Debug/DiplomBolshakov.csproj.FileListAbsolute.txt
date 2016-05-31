@@ -1,0 +1,9 @@
+c:\users\vladimir\documents\visual studio 2015\Projects\DiplomBolshakov\DiplomBolshakov\bin\Debug\DiplomBolshakov.exe.config
+c:\users\vladimir\documents\visual studio 2015\Projects\DiplomBolshakov\DiplomBolshakov\bin\Debug\DiplomBolshakov.exe
+c:\users\vladimir\documents\visual studio 2015\Projects\DiplomBolshakov\DiplomBolshakov\bin\Debug\DiplomBolshakov.pdb
+c:\users\vladimir\documents\visual studio 2015\Projects\DiplomBolshakov\DiplomBolshakov\obj\Debug\DiplomBolshakov.csprojResolveAssemblyReference.cache
+c:\users\vladimir\documents\visual studio 2015\Projects\DiplomBolshakov\DiplomBolshakov\obj\Debug\DiplomBolshakov.Form1.resources
+c:\users\vladimir\documents\visual studio 2015\Projects\DiplomBolshakov\DiplomBolshakov\obj\Debug\DiplomBolshakov.Properties.Resources.resources
+c:\users\vladimir\documents\visual studio 2015\Projects\DiplomBolshakov\DiplomBolshakov\obj\Debug\DiplomBolshakov.csproj.GenerateResource.Cache
+c:\users\vladimir\documents\visual studio 2015\Projects\DiplomBolshakov\DiplomBolshakov\obj\Debug\DiplomBolshakov.exe
+c:\users\vladimir\documents\visual studio 2015\Projects\DiplomBolshakov\DiplomBolshakov\obj\Debug\DiplomBolshakov.pdb
